@@ -1,6 +1,6 @@
 ## EXPERIMENT 03: IMPLEMENTATION OF APPROXIMATE INFERENCE IN BAYESIAN NETWORKS
 ### NAME: Rithiga Sri B
-### REFISTER NO: 212221230083
+### REGISTER NO: 212221230083
 ### DATE: 12.09.2024
 ## Aim: 
    To construct a python program to implement approximate inference using Gibbs Sampling.</br>
