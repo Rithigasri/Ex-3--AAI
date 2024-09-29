@@ -1,4 +1,4 @@
-## EXPERIMENT 032; IMPLEMENTATION OF APPROXIMATE INFERENCE IN BAYESIAN NETWORKS
+## EXPERIMENT 03: IMPLEMENTATION OF APPROXIMATE INFERENCE IN BAYESIAN NETWORKS
 ### NAME: Rithiga Sri B
 ### REFISTER NO: 212221230083
 ### DATE: 12.09.2024
@@ -118,7 +118,8 @@ print(query_result)
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/41968c8d-c816-4fc0-a423-fcae093dde52)
+![image](https://github.com/user-attachments/assets/a599eac1-489f-4ed2-ae53-0b1cd81b4d94)
+
 
 
 ## Result:
